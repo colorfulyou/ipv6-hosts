@@ -1,0 +1,4 @@
+直接将hosts文件替换C:\windows\System32\drivers\etc\hosts即可
+国内好像只有校园网有ipv6
+如果上不了外网，那就更新一下最新的hosts文件
+平常的时候开着10.0.0.55的校园网，这样既能上ipv4的，也能上ipv6的
